@@ -1,5 +1,5 @@
 // Creating an array containing all the names of sounds
-const sounds = ['applause', 'boo', 'gasps', 'tada', 'victory', 'wrong'];
+const sounds = ['applause', 'boo', 'gasp', 'tada', 'victory', 'wrong'];
 
 // Loop through sounds
 sounds.forEach(sound => {
